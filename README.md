@@ -4,7 +4,10 @@ This is a simple Python script to remove the background from an image using the 
 
 ## 📸 Input Example
 
-<img src="photo.jpeg">
+<img src="photo.jpeg" height="100px" width="100px">
+
+## 📸 Output Example
+<img src="output.png" height="100px" width="100px">
 
 ## 📦 Requirements
 
